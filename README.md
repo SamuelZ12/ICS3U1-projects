@@ -1,6 +1,6 @@
 # ICS3U1 Python Projects
 
-This repository contains a collection of Python projects developed for the ICS3U1 course. It includes several games and graphical demonstrations using Pygame and standard Python libraries.
+This repository contains a collection of Python projects developed for the ICS3U1 course (Introduction to Computer Science, Grade 11). It includes several games and graphical demonstrations using Pygame and standard Python libraries.
 
 ## Projects Included
 
